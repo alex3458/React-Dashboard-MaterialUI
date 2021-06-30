@@ -19,7 +19,7 @@ const user = {
   city: 'BEOGRAD',
   country: 'SERBIA',
   jobTitle: 'Senior Developer',
-  name: 'Nikola Jankovic',
+  name: 'Aleksandr Stryzhov',
   timezone: 'GMT+1'
 };
 

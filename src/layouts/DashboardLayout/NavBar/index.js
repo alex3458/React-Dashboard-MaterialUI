@@ -27,7 +27,7 @@ import NavItem from './NavItem';
 const user = {
   avatar: '/static/images/avatars/me.png',
   jobTitle: 'Senior Developer',
-  name: 'Nikola Jankovic'
+  name: 'Aleksandr Stryzhov'
 };
 
 const items = [

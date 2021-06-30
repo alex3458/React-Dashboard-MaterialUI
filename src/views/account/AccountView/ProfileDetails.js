@@ -35,12 +35,12 @@ const useStyles = makeStyles(() => ({
 const ProfileDetails = ({ className, ...rest }) => {
   const classes = useStyles();
   const [values, setValues] = useState({
-    firstName: 'Nikola',
-    lastName: 'Jankovic',
-    email: 'nkjanko776@gmail.com',
+    firstName: 'Aleksandr',
+    lastName: 'Stryzhov',
+    email: 'aleksandrct.work@gmail.com',
     phone: '062561905',
-    state: 'Belgrade',
-    country: 'SERBIA'
+    state: 'Moscow',
+    country: 'Russia'
   });
 
   const handleChange = (event) => {

@@ -1,8 +1,8 @@
-## [Nikola Kit - Admin Dashboard](https://react-dashboard-material-ui.vercel.app/)
+## [Aleksandr Kit - Admin Dashboard](react-dashboard-material-ui.netlify.app/)
 
-[![React Material Dashboard]](https://react-dashboard-material-ui.vercel.app/)
+[![React Material Dashboard]](react-dashboard-material-ui.netlify.app/)
 
-> Free React Dashboard made with [Material UI's](https://material-ui.com/?ref=devias-io) components, [React](https://react-dashboard-material-ui.vercel.app/) and of course [create-react-app](https://react-dashboard-material-ui.vercel.app/) to boost your app development process! We'll launch a pro version soon, so if you are interested subscribe to our personal emailing list on (nkjanko776@gmail.com)
+> Free React Dashboard made with [Material UI's](https://material-ui.com/?ref=devias-io) components, [React](react-dashboard-material-ui.netlify.app/) to boost your app development process! We'll launch a pro version soon, so if you are interested subscribe to our personal emailing list on (aleksandrct.work@gmail.com)
 
 ## Upgrade to PRO Version
 
@@ -19,17 +19,15 @@ We also have a pro version of this product which bundles even more pages and com
 
 ## Demo
 
-- [Dashboard Page](https://react-dashboard-material-ui.vercel.app/app/dashboard)
-- [Users Page](https://react-dashboard-material-ui.vercel.app/app/customers)
-- [Products Page](https://react-dashboard-material-ui.vercel.app/app/products)
-- [Register Page](https://react-dashboard-material-ui.vercel.app/register)
-- [Login Page]()https://react-dashboard-material-ui.vercel.app/login
-- [Account Page](https://react-dashboard-material-ui.vercel.app/app/account)
-- [Settings Page](https://react-dashboard-material-ui.vercel.app/app/settings)
+- [Dashboard Page](https://react-dashboard-material-ui.netlify.app/app/dashboard)
+- [Users Page](https://react-dashboard-material-ui.netlify.app/app/customers)
+- [Products Page](https://react-dashboard-material-ui.netlify.app/app/products)
+- [Register Page](https://react-dashboard-material-ui.netlify.app/register)
+- [Login Page]()https://react-dashboard-material-ui.netlify.app/login
+- [Account Page](https://react-dashboard-material-ui.netlify.app/app/account)
+- [Settings Page](https://react-dashboard-material-ui.netlify.app/app/settings)
 
 ## Quick start
-
-- [Download from Github](https://github.com/nikola719/React-Dashboard-MaterialUI/archive/master.zip) or clone the repo: `git clone https://github.com/nikola719/React-Dashboard-MaterialUI.git`
 
 - Make sure your NodeJS and npm versions are up to date for `React 16.8.6`
 
@@ -86,16 +84,16 @@ material-react-dashboard
 
 ## Resources
 
-- More freebies like this one: <https://github.com/nikola719/React-Dashboard-MaterialUI>
+- More freebies like this one: <https://github.com/alex3458/React-Dashboard-MaterialUI>
 
 ## Reporting Issues:
 
-- [Github Issues Page](https://github.com/nikola719/React-Dashboard-MaterialUI/issues?ref=nikola719)
+- [Github Issues Page](https://github.com/alex3458/React-Dashboard-MaterialUI/issues?ref=alex3458)
 
 ## License
 
-- Licensed under MIT (https://github.com/nikola719/React-Dashboard-MaterialUI/blob/master/LICENSE.md)
+- Licensed under MIT (https://github.com/alex3458/React-Dashboard-MaterialUI/blob/master/LICENSE.md)
 
 ## Contact Us
 
-- Email Us: nkjanko776@gmail.com
+- Email Us: aleksandrct.work@gmail.com
